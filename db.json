@@ -15,6 +15,38 @@
       "telefono": "123456789",
       "notas": "Tiene miedo a los perros",
       "id": 2
+    },
+    {
+      "nombre": "Emanuel",
+      "empresa": "Emanuel Construye",
+      "email": "emanuel@emanuel.com",
+      "telefono": "3813448899",
+      "notas": "Necesita comprar cemento",
+      "id": 3
+    },
+    {
+      "nombre": "Claudia",
+      "empresa": "Heart S.A.",
+      "email": "clau@clau.com",
+      "telefono": "38123456789",
+      "notas": "Quiere vender floreros",
+      "id": 4
+    },
+    {
+      "nombre": "Dante",
+      "empresa": "Home S.A.",
+      "email": "dante@dante.com",
+      "telefono": "",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "Ayelen Tuquina",
+      "empresa": "Genshin Lovers",
+      "email": "ayelentuquina@gmail.com",
+      "telefono": "3815037310",
+      "notas": "Tiene que estudiar pero quiere jugar al Genshin",
+      "id": 6
     }
   ]
 }
