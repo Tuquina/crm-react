@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Fernando",
+      "empresa": "Home S.A.",
+      "email": "fernandotuquina@gmail.com",
+      "telefono": "03813569471",
+      "notas": "El cliente solicita un producto",
+      "id": 1
+    },
+    {
+      "nombre": "Agustín",
+      "empresa": "5codigos",
+      "email": "pichi@nolife.com",
+      "telefono": "123456789",
+      "notas": "Tiene miedo a los perros",
+      "id": 2
+    }
+  ]
+}
