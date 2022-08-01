@@ -17,7 +17,7 @@
       "id": 2
     },
     {
-      "nombre": "Emanuel",
+      "nombre": "Emanuel ACTUALIZADO",
       "empresa": "Emanuel Construye",
       "email": "emanuel@emanuel.com",
       "telefono": "3813448899",
@@ -25,19 +25,11 @@
       "id": 3
     },
     {
-      "nombre": "Claudia",
-      "empresa": "Heart S.A.",
-      "email": "clau@clau.com",
-      "telefono": "38123456789",
-      "notas": "Quiere vender floreros",
-      "id": 4
-    },
-    {
-      "nombre": "Dante",
+      "nombre": "Dante Fabian",
       "empresa": "Home S.A.",
       "email": "dante@dante.com",
       "telefono": "",
-      "notas": "",
+      "notas": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
       "id": 5
     },
     {
