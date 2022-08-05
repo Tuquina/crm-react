@@ -9,9 +9,8 @@ const Inicio = () => {
     const obtenerClientesAPI = async () => {
       try {
         const url = import.meta.env.VITE_API_URL
-        const respuesta = await fetch(url)
+        const respuesta = await fetch(url);
         const resultado = await respuesta.json()
-
         setClientes(resultado)
       } catch (error) {
         console.log(error)
@@ -28,7 +27,7 @@ const Inicio = () => {
         const respuesta = await fetch(url, {
           method: 'DELETE'
         })
-        await respuesta.json()
+        //await respuesta.json()
         const arrayClientes = clientes.filter(cliente => cliente.id !== id)
         setClientes(arrayClientes)
       } catch (error) {
